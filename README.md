@@ -8,7 +8,7 @@ Me chamo Bruno Vitor ,sou natural de Pernambuco . Formado em Redes de Computador
 - 🌱 I’m currently learning Python | SQL
 - 🤔 I’m looking for help with  Python | SQl 
 - 📫 How to reach me:  programadorpythonsql@gmail.com
-- #💻Bruno Vitor
+  
 
 
 
